@@ -44,7 +44,7 @@ export default () => (
 </FullBox>
 
 <FullBox>
-  <TitleText>Covering All of Marin County</TitleText>
+  <TitleText>Covering Most of Marin County</TitleText>
   <SubTitleText>8am to 5pm</SubTitleText>
   <SubTitleText>Monday through Friday</SubTitleText>
 </FullBox>
