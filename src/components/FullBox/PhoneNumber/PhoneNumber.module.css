@@ -1,0 +1,9 @@
+.phone{
+  color: #1B1760;
+  font-size: 4.5em;
+}
+
+.phone:hover{
+  color:#005AA3;
+  
+}

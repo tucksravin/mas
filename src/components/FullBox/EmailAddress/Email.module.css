@@ -1,0 +1,9 @@
+.email{
+  color: #1B1760;
+  font-size: 2.5em;
+}
+
+.email:hover{
+  color:#005AA3;
+
+}

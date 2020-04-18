@@ -1,0 +1,26 @@
+.hBox{
+  background-color: #72ADDD;
+  color: white;
+  margin: auto;
+  width: 40%;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  padding: 1em;
+  border-radius: 28px;
+  box-shadow: -2px 3px #d8d6f5;
+  text-align: center;
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+
+@media only screen and (max-width:720px){
+  .hBox{
+    width: 80%;
+    margin: auto;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    padding: 2em;
+
+  }
+}

@@ -1,0 +1,12 @@
+.fbox{
+  background-color: #72ADDD;
+  color: white;
+  width: 80%;
+  margin: auto;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  padding: 1em;
+  border-radius: 28px;
+  box-shadow: -2px 3px #d8d6f5;
+  text-align: center;
+}

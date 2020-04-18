@@ -1,0 +1,15 @@
+.iconSet {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width:80%;
+  margin: auto;
+  margin-top: 1.75em;
+  margin-bottom: 1.75em;
+}
+
+@media only screen and (max-width:720px){
+  .iconSet{
+    display: none;
+  }
+}
