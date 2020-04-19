@@ -15,9 +15,9 @@ import EmailAddress from "../components/FullBox/EmailAddress/EmailAddress"
 export default () => (
   <Layout>
 <FullBox>
-  <TitleText>Is your refridgerator running?</TitleText>
-  <TitleText>Is your washing machine walking?</TitleText>
-  <TitleText>It's not a joke and I can help!</TitleText>
+  <TitleText>Over 30 Years Experience</TitleText>
+  <TitleText>Delivering Prompt Professional Personalized Service</TitleText>
+  <TitleText>Talk to Mike at</TitleText>
   <PhoneNumber />
 </FullBox>
 <Row>
